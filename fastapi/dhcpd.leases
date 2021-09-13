@@ -1,0 +1,1090 @@
+lease 10.217.47.127 {
+  starts 4 2021/06/10 00:25:20;
+  ends 4 2021/06/10 00:27:20;
+  tstp 4 2021/06/10 00:27:20;
+  cltt 4 2021/06/10 00:25:20;
+  binding state free;
+  hardware ethernet 40:b0:76:a0:4e:7c;
+  uid "\001@\260v\240N|";
+  client-hostname "s12-melehin";
+}
+lease 10.217.47.119 {
+  starts 4 2021/06/10 08:35:08;
+  ends 4 2021/06/10 08:42:00;
+  tstp 4 2021/06/10 08:42:00;
+  cltt 4 2021/06/10 08:35:08;
+  binding state free;
+  hardware ethernet 04:d9:f5:cc:a8:46;
+  uid "\001\004\331\365\314\250F";
+}
+lease 10.217.47.123 {
+  starts 3 2021/06/23 12:37:34;
+  ends 3 2021/06/23 12:39:34;
+  tstp 3 2021/06/23 12:39:34;
+  cltt 3 2021/06/23 12:37:34;
+  binding state free;
+  hardware ethernet c0:74:ad:1d:7a:55;
+  uid "\001\300t\255\035zU";
+}
+lease 10.217.47.125 {
+  starts 4 2021/06/24 02:39:57;
+  ends 4 2021/06/24 02:41:57;
+  tstp 4 2021/06/24 02:41:57;
+  cltt 4 2021/06/24 02:39:57;
+  binding state free;
+  hardware ethernet 00:17:c8:99:58:9b;
+  uid "\001\000\027\310\231X\233";
+  client-hostname "KM99589B";
+}
+lease 10.217.47.110 {
+  starts 2 2021/06/29 01:26:22;
+  ends 2 2021/06/29 01:28:22;
+  tstp 2 2021/06/29 01:28:22;
+  cltt 2 2021/06/29 01:26:22;
+  binding state free;
+  hardware ethernet 00:1f:3b:5b:bd:ad;
+  uid "\000\037;[\275\255";
+  client-hostname "Rogue";
+}
+lease 10.217.47.116 {
+  starts 3 2021/06/30 03:17:27;
+  ends 3 2021/06/30 03:19:27;
+  tstp 3 2021/06/30 03:19:27;
+  cltt 3 2021/06/30 03:17:27;
+  binding state free;
+  hardware ethernet 38:d5:47:22:4c:66;
+  uid "\0018\325G\"Lf";
+  client-hostname "zheltouhova";
+}
+lease 10.217.47.118 {
+  starts 3 2021/06/30 03:18:46;
+  ends 3 2021/06/30 03:20:46;
+  tstp 3 2021/06/30 03:20:46;
+  cltt 3 2021/06/30 03:18:46;
+  binding state free;
+  hardware ethernet e0:d5:5e:77:b7:d4;
+  uid "\001\340\325^w\267\324";
+  client-hostname "s12-kladovof";
+}
+lease 10.217.47.84 {
+  starts 5 2021/07/09 08:51:43;
+  ends 5 2021/07/09 08:53:43;
+  tstp 5 2021/07/09 08:53:43;
+  cltt 5 2021/07/09 08:51:43;
+  binding state free;
+  hardware ethernet a8:a1:59:35:73:5f;
+  uid "\001\250\241Y5s_";
+  client-hostname "s12of-pozdnyakova";
+}
+lease 10.217.47.106 {
+  starts 2 2021/07/27 06:47:46;
+  ends 2 2021/07/27 07:07:39;
+  tstp 2 2021/07/27 07:07:39;
+  cltt 2 2021/07/27 06:47:46;
+  binding state free;
+  hardware ethernet a8:5e:45:13:5d:4c;
+  uid "\001\250^E\023]L";
+}
+lease 10.217.47.86 {
+  starts 6 2021/07/31 09:04:55;
+  ends 6 2021/07/31 09:06:55;
+  tstp 6 2021/07/31 09:06:55;
+  cltt 6 2021/07/31 09:04:55;
+  binding state free;
+  hardware ethernet 00:0c:29:01:8b:10;
+}
+lease 10.217.47.88 {
+  starts 4 2021/08/05 02:55:57;
+  ends 4 2021/08/05 02:57:57;
+  tstp 4 2021/08/05 02:57:57;
+  cltt 4 2021/08/05 02:55:57;
+  binding state free;
+  hardware ethernet 3c:7c:3f:c1:9f:d0;
+  uid "\001<|?\301\237\320";
+  client-hostname "DESKTOP-D8D268F";
+}
+lease 10.217.47.87 {
+  starts 4 2021/08/05 02:55:08;
+  ends 4 2021/08/05 03:55:08;
+  tstp 4 2021/08/05 03:55:08;
+  cltt 4 2021/08/05 02:55:08;
+  binding state free;
+  hardware ethernet 00:20:fc:33:4c:da;
+  uid "\001\000 \3743L\332";
+}
+lease 10.217.47.35 {
+  starts 4 2021/08/05 02:55:57;
+  ends 4 2021/08/05 03:55:57;
+  tstp 4 2021/08/05 03:55:57;
+  cltt 4 2021/08/05 02:55:57;
+  binding state free;
+  hardware ethernet 3c:7c:3f:c1:9f:d0;
+  uid "\001<|?\301\237\320";
+}
+lease 10.217.47.122 {
+  starts 4 2021/08/12 08:48:05;
+  ends 4 2021/08/12 08:50:05;
+  tstp 4 2021/08/12 08:50:05;
+  cltt 4 2021/08/12 08:48:05;
+  binding state free;
+  hardware ethernet 80:ce:62:7e:30:c7;
+  uid "\001\200\316b~0\307";
+  client-hostname "LAPTOP-K0PHHNQG";
+}
+lease 10.217.47.90 {
+  starts 2 2021/08/17 06:53:06;
+  ends 2 2021/08/17 06:55:06;
+  tstp 2 2021/08/17 06:55:06;
+  cltt 2 2021/08/17 06:53:06;
+  binding state free;
+  hardware ethernet 2c:fd:a1:74:66:c2;
+  uid "\001,\375\241tf\302";
+  client-hostname "s12-zhilindd";
+}
+lease 10.217.47.89 {
+  starts 3 2021/08/18 00:16:04;
+  ends 3 2021/08/18 00:18:04;
+  tstp 3 2021/08/18 00:18:04;
+  cltt 3 2021/08/18 00:16:04;
+  binding state free;
+  hardware ethernet f4:39:09:17:cb:d4;
+  uid "\001\3649\011\027\313\324";
+  client-hostname "SH12-M";
+}
+lease 10.217.47.91 {
+  starts 3 2021/08/18 04:53:58;
+  ends 3 2021/08/18 04:55:58;
+  tstp 3 2021/08/18 04:55:58;
+  cltt 3 2021/08/18 04:53:58;
+  binding state free;
+  hardware ethernet f0:2f:74:ce:3c:04;
+  uid "\001\360/t\316<\004";
+  client-hostname "s12of-zotov";
+}
+lease 10.217.47.31 {
+  starts 4 2021/08/19 03:23:13;
+  ends 4 2021/08/19 03:25:13;
+  tstp 4 2021/08/19 03:25:13;
+  cltt 4 2021/08/19 03:23:13;
+  binding state free;
+  hardware ethernet 10:1f:74:0d:16:3e;
+  uid "\001\020\037t\015\026>";
+}
+lease 10.217.47.117 {
+  starts 5 2021/08/20 02:59:06;
+  ends 5 2021/08/20 03:01:06;
+  cltt 5 2021/08/20 02:59:06;
+  binding state free;
+  hardware ethernet 10:1f:74:0d:16:3e;
+  uid "\001\020\037t\015\026>";
+}
+lease 10.217.47.92 {
+  starts 3 2021/08/25 07:03:50;
+  ends 3 2021/08/25 07:05:50;
+  cltt 3 2021/08/25 07:03:50;
+  binding state free;
+  hardware ethernet 00:15:5d:18:9f:07;
+}
+lease 10.217.47.93 {
+  starts 3 2021/08/25 07:14:04;
+  ends 3 2021/08/25 07:16:04;
+  cltt 3 2021/08/25 07:14:04;
+  binding state free;
+  hardware ethernet 00:15:5d:18:9f:08;
+  uid "\001\000\025]\030\237\010";
+}
+lease 10.217.47.39 {
+  starts 3 2021/08/25 07:35:50;
+  ends 3 2021/08/25 08:35:50;
+  tstp 3 2021/08/25 08:35:50;
+  cltt 3 2021/08/25 07:35:50;
+  binding state free;
+  hardware ethernet 00:15:5d:18:9f:08;
+  uid "\001\000\025]\030\237\010";
+}
+lease 10.217.47.94 {
+  starts 4 2021/08/26 00:22:18;
+  ends 4 2021/08/26 00:24:18;
+  cltt 4 2021/08/26 00:22:18;
+  binding state free;
+  hardware ethernet 00:15:5d:18:9f:09;
+  uid "\001\000\025]\030\237\011";
+  client-hostname "WIN-MUEAGPLVRRG";
+}
+lease 10.217.47.96 {
+  starts 4 2021/08/26 01:01:38;
+  ends 4 2021/08/26 01:03:38;
+  cltt 4 2021/08/26 01:01:38;
+  binding state free;
+  hardware ethernet 00:15:5d:18:9f:0b;
+  uid "\001\000\025]\030\237\013";
+  client-hostname "WIN-8GAHS5FAG6U";
+}
+lease 10.217.47.43 {
+  starts 4 2021/08/26 00:22:19;
+  ends 4 2021/08/26 01:22:19;
+  tstp 4 2021/08/26 01:22:19;
+  cltt 4 2021/08/26 00:22:19;
+  binding state free;
+  hardware ethernet 00:15:5d:18:9f:09;
+  uid "\001\000\025]\030\237\011";
+}
+lease 10.217.47.44 {
+  starts 4 2021/08/26 01:19:57;
+  ends 4 2021/08/26 02:19:57;
+  tstp 4 2021/08/26 02:19:57;
+  cltt 4 2021/08/26 01:19:57;
+  binding state free;
+  hardware ethernet 00:15:5d:18:9f:0b;
+  uid "\001\000\025]\030\237\013";
+}
+lease 10.217.47.97 {
+  starts 1 2021/08/30 05:54:23;
+  ends 1 2021/08/30 05:56:23;
+  cltt 1 2021/08/30 05:54:23;
+  binding state free;
+  hardware ethernet bc:ae:c5:df:47:52;
+  uid "\001\274\256\305\337GR";
+  client-hostname "s12of-kpp4";
+}
+lease 10.217.47.98 {
+  starts 2 2021/08/31 04:44:40;
+  ends 2 2021/08/31 04:46:40;
+  cltt 2 2021/08/31 04:44:40;
+  binding state free;
+  hardware ethernet f0:2f:74:ce:36:b8;
+  uid "\001\360/t\3166\270";
+  client-hostname "s12of-ircamera";
+}
+lease 10.217.47.99 {
+  starts 2 2021/08/31 06:57:55;
+  ends 2 2021/08/31 06:59:55;
+  cltt 2 2021/08/31 06:57:55;
+  binding state free;
+  hardware ethernet f4:39:09:1a:eb:7d;
+  uid "\001\3649\011\032\353}";
+  client-hostname "DESKTOP-Q6R6Q4A";
+}
+lease 10.217.47.48 {
+  starts 2 2021/08/31 11:08:57;
+  ends 2 2021/08/31 11:10:57;
+  cltt 2 2021/08/31 11:08:57;
+  binding state free;
+  hardware ethernet f4:39:09:1a:eb:7d;
+  uid "\001\3649\011\032\353}";
+  client-hostname "DESKTOP-Q6R6Q4A";
+}
+lease 10.217.47.100 {
+  starts 4 2021/09/02 03:23:22;
+  ends 4 2021/09/02 03:25:22;
+  cltt 4 2021/09/02 03:23:22;
+  binding state free;
+  hardware ethernet 44:8a:5b:69:76:b0;
+  uid "\001D\212[iv\260";
+  client-hostname "s12-korshunov";
+}
+lease 10.217.47.49 {
+  starts 4 2021/09/02 03:35:30;
+  ends 4 2021/09/02 04:35:30;
+  tstp 4 2021/09/02 04:35:30;
+  cltt 4 2021/09/02 03:35:30;
+  binding state free;
+  hardware ethernet 44:8a:5b:69:76:b0;
+  uid "\001D\212[iv\260";
+}
+lease 10.217.47.124 {
+  starts 4 2021/09/02 05:58:49;
+  ends 4 2021/09/02 06:58:49;
+  tstp 4 2021/09/02 06:58:49;
+  cltt 4 2021/09/02 05:58:49;
+  binding state free;
+  hardware ethernet 38:d5:47:22:4c:66;
+  uid "\0018\325G\"Lf";
+}
+lease 10.217.47.121 {
+  starts 5 2021/09/03 03:17:36;
+  ends 5 2021/09/03 03:19:36;
+  cltt 5 2021/09/03 03:17:36;
+  binding state free;
+  hardware ethernet e0:d5:5e:77:b7:e5;
+  uid "\001\340\325^w\267\345";
+  client-hostname "s12-klad2of";
+}
+lease 10.217.47.38 {
+  starts 5 2021/09/03 03:17:00;
+  ends 5 2021/09/03 04:17:00;
+  tstp 5 2021/09/03 04:17:00;
+  cltt 5 2021/09/03 03:17:00;
+  binding state free;
+  hardware ethernet e0:d5:5e:77:b7:d4;
+  uid "\001\340\325^w\267\324";
+}
+lease 10.217.47.64 {
+  starts 1 2021/09/06 05:05:51;
+  ends 1 2021/09/06 05:07:51;
+  cltt 1 2021/09/06 05:05:51;
+  binding state free;
+  hardware ethernet 70:85:c2:b6:6a:80;
+  uid "\001p\205\302\266j\200";
+  client-hostname "s12-himlabof";
+}
+lease 10.217.47.65 {
+  starts 1 2021/09/06 05:08:05;
+  ends 1 2021/09/06 05:10:05;
+  cltt 1 2021/09/06 05:08:05;
+  binding state free;
+  hardware ethernet 18:c0:4d:eb:cd:29;
+  uid "\001\030\300M\353\315)";
+  client-hostname "s12-sapronova";
+}
+lease 10.217.47.66 {
+  starts 1 2021/09/06 08:15:36;
+  ends 1 2021/09/06 08:17:36;
+  cltt 1 2021/09/06 08:15:36;
+  binding state free;
+  hardware ethernet 18:c0:4d:eb:dd:0a;
+  uid "\001\030\300M\353\335\012";
+  client-hostname "s12-frolova";
+}
+lease 10.217.47.67 {
+  starts 1 2021/09/06 08:15:42;
+  ends 1 2021/09/06 08:17:42;
+  cltt 1 2021/09/06 08:15:42;
+  binding state free;
+  hardware ethernet e0:d5:5e:c3:7a:84;
+  uid "\001\340\325^\303z\204";
+  client-hostname "s12-andriyanova";
+}
+lease 10.217.47.68 {
+  starts 2 2021/09/07 04:11:30;
+  ends 2 2021/09/07 04:13:30;
+  cltt 2 2021/09/07 04:11:30;
+  binding state free;
+  hardware ethernet 4c:ed:fb:79:23:bd;
+  uid "\001L\355\373y#\275";
+  client-hostname "SiamsStation";
+}
+lease 10.217.47.69 {
+  starts 2 2021/09/07 04:39:03;
+  ends 2 2021/09/07 04:41:03;
+  cltt 2 2021/09/07 04:39:03;
+  binding state free;
+  hardware ethernet 00:17:c8:b5:4d:4a;
+  uid "\001\000\027\310\265MJ";
+  client-hostname "KMB54D4A";
+}
+lease 10.217.47.70 {
+  starts 2 2021/09/07 05:18:32;
+  ends 2 2021/09/07 05:20:32;
+  cltt 2 2021/09/07 05:18:32;
+  binding state free;
+  hardware ethernet 78:24:af:8b:07:37;
+  uid "\001x$\257\213\0077";
+  client-hostname "s12-kabanov";
+}
+lease 10.217.47.59 {
+  starts 2 2021/09/07 04:39:03;
+  ends 2 2021/09/07 05:39:03;
+  tstp 2 2021/09/07 05:39:03;
+  cltt 2 2021/09/07 04:39:03;
+  binding state free;
+  hardware ethernet 00:17:c8:b5:4d:4a;
+  uid "\001\000\027\310\265MJ";
+}
+lease 10.217.47.42 {
+  starts 3 2021/09/08 03:21:35;
+  ends 3 2021/09/08 04:21:35;
+  tstp 3 2021/09/08 04:21:35;
+  cltt 3 2021/09/08 03:21:35;
+  binding state free;
+  hardware ethernet f0:2f:74:ce:3c:04;
+  uid "\001\360/t\316<\004";
+}
+lease 10.217.47.58 {
+  starts 3 2021/09/08 03:37:49;
+  ends 3 2021/09/08 04:37:49;
+  tstp 3 2021/09/08 04:37:49;
+  cltt 3 2021/09/08 03:37:49;
+  binding state free;
+  hardware ethernet 4c:ed:fb:79:23:bd;
+  uid "\001L\355\373y#\275";
+}
+lease 10.217.47.60 {
+  starts 3 2021/09/08 03:57:54;
+  ends 3 2021/09/08 04:57:54;
+  tstp 3 2021/09/08 04:57:54;
+  cltt 3 2021/09/08 03:57:54;
+  binding state free;
+  hardware ethernet 78:24:af:8b:07:37;
+  uid "\001x$\257\213\0077";
+}
+lease 10.217.47.72 {
+  starts 3 2021/09/08 06:42:55;
+  ends 3 2021/09/08 06:44:55;
+  cltt 3 2021/09/08 06:42:55;
+  binding state free;
+  hardware ethernet f0:2f:74:cc:af:c9;
+  uid "\001\360/t\314\257\311";
+  client-hostname "s12of-himlab";
+}
+lease 10.217.47.62 {
+  starts 3 2021/09/08 08:00:27;
+  ends 3 2021/09/08 09:00:27;
+  tstp 3 2021/09/08 09:00:27;
+  cltt 3 2021/09/08 08:00:27;
+  binding state free;
+  hardware ethernet f0:2f:74:cc:af:c9;
+  uid "\001\360/t\314\257\311";
+}
+lease 10.217.47.51 {
+  starts 3 2021/09/08 09:28:44;
+  ends 3 2021/09/08 10:28:44;
+  tstp 3 2021/09/08 10:28:44;
+  cltt 3 2021/09/08 09:28:44;
+  binding state free;
+  hardware ethernet 38:d5:47:17:2f:7b;
+  uid "\0018\325G\027/{";
+}
+lease 10.217.47.33 {
+  starts 3 2021/09/08 09:45:45;
+  ends 3 2021/09/08 10:45:45;
+  tstp 3 2021/09/08 10:45:45;
+  cltt 3 2021/09/08 09:45:45;
+  binding state free;
+  hardware ethernet a8:5e:45:32:65:f5;
+  uid "\001\250^E2e\365";
+}
+lease 10.217.47.40 {
+  starts 3 2021/09/08 12:09:37;
+  ends 3 2021/09/08 13:09:37;
+  tstp 3 2021/09/08 13:09:37;
+  cltt 3 2021/09/08 12:09:37;
+  binding state free;
+  hardware ethernet 2c:fd:a1:74:66:c2;
+  uid "\001,\375\241tf\302";
+}
+lease 10.217.47.57 {
+  starts 3 2021/09/08 13:18:05;
+  ends 3 2021/09/08 14:18:05;
+  tstp 3 2021/09/08 14:18:05;
+  cltt 3 2021/09/08 13:18:05;
+  binding state free;
+  hardware ethernet e0:d5:5e:c3:7a:84;
+  uid "\001\340\325^\303z\204";
+}
+lease 10.217.47.71 {
+  starts 3 2021/09/08 14:35:35;
+  ends 3 2021/09/08 15:35:35;
+  tstp 3 2021/09/08 15:35:35;
+  cltt 3 2021/09/08 14:35:35;
+  binding state free;
+  hardware ethernet e0:d5:5e:7d:4f:38;
+  uid "\001\340\325^}O8";
+}
+lease 10.217.47.107 {
+  starts 3 2021/09/08 15:14:35;
+  ends 3 2021/09/08 16:14:35;
+  tstp 3 2021/09/08 16:14:35;
+  cltt 3 2021/09/08 15:14:35;
+  binding state free;
+  hardware ethernet e0:d5:5e:77:93:02;
+  uid "\001\340\325^w\223\002";
+}
+lease 10.217.47.45 {
+  starts 3 2021/09/08 16:28:01;
+  ends 3 2021/09/08 17:28:01;
+  tstp 3 2021/09/08 17:28:01;
+  cltt 3 2021/09/08 16:28:01;
+  binding state free;
+  hardware ethernet bc:ae:c5:df:47:52;
+  uid "\001\274\256\305\337GR";
+}
+lease 10.217.47.54 {
+  starts 3 2021/09/08 20:32:12;
+  ends 3 2021/09/08 21:32:12;
+  tstp 3 2021/09/08 21:32:12;
+  cltt 3 2021/09/08 20:32:12;
+  binding state free;
+  hardware ethernet 70:85:c2:b6:6a:80;
+  uid "\001p\205\302\266j\200";
+}
+lease 10.217.47.55 {
+  starts 3 2021/09/08 21:21:09;
+  ends 3 2021/09/08 22:21:09;
+  tstp 3 2021/09/08 22:21:09;
+  cltt 3 2021/09/08 21:21:09;
+  binding state free;
+  hardware ethernet 18:c0:4d:eb:cd:29;
+  uid "\001\030\300M\353\315)";
+}
+lease 10.217.47.56 {
+  starts 3 2021/09/08 21:33:02;
+  ends 3 2021/09/08 22:33:02;
+  tstp 3 2021/09/08 22:33:02;
+  cltt 3 2021/09/08 21:33:02;
+  binding state free;
+  hardware ethernet 18:c0:4d:eb:dd:0a;
+  uid "\001\030\300M\353\335\012";
+}
+lease 10.217.47.114 {
+  starts 3 2021/09/08 21:42:32;
+  ends 3 2021/09/08 22:42:32;
+  tstp 3 2021/09/08 22:42:32;
+  cltt 3 2021/09/08 21:42:32;
+  binding state free;
+  hardware ethernet 2c:fd:a1:38:7d:5e;
+  uid "\001,\375\2418}^";
+}
+lease 10.217.47.46 {
+  starts 3 2021/09/08 22:40:59;
+  ends 3 2021/09/08 23:40:59;
+  tstp 3 2021/09/08 23:40:59;
+  cltt 3 2021/09/08 22:40:59;
+  binding state free;
+  hardware ethernet f0:2f:74:ce:36:b8;
+  uid "\001\360/t\3166\270";
+}
+lease 10.217.47.81 {
+  starts 3 2021/09/08 23:16:10;
+  ends 4 2021/09/09 00:16:10;
+  tstp 4 2021/09/09 00:16:10;
+  cltt 3 2021/09/08 23:16:10;
+  binding state free;
+  hardware ethernet a8:5e:45:13:58:29;
+  uid "\001\250^E\023X)";
+}
+lease 10.217.47.52 {
+  starts 4 2021/09/09 00:43:23;
+  ends 4 2021/09/09 00:45:23;
+  cltt 4 2021/09/09 00:43:23;
+  binding state free;
+  hardware ethernet d4:5d:64:a5:83:ee;
+  uid "\001\324]d\245\203\356";
+  client-hostname "s12-mishin";
+}
+lease 10.217.47.103 {
+  starts 3 2021/09/08 23:57:32;
+  ends 4 2021/09/09 00:57:32;
+  tstp 4 2021/09/09 00:57:32;
+  cltt 3 2021/09/08 23:57:32;
+  binding state free;
+  hardware ethernet e0:d5:5e:77:92:95;
+  uid "\001\340\325^w\222\225";
+}
+lease 10.217.47.41 {
+  starts 3 2021/09/08 23:59:22;
+  ends 4 2021/09/09 00:59:22;
+  tstp 4 2021/09/09 00:59:22;
+  cltt 3 2021/09/08 23:59:22;
+  binding state free;
+  hardware ethernet 40:b0:76:a0:4e:7c;
+  uid "\001@\260v\240N|";
+}
+lease 10.217.47.34 {
+  starts 4 2021/09/09 00:19:41;
+  ends 4 2021/09/09 01:19:41;
+  cltt 4 2021/09/09 00:19:41;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet f0:2f:74:cc:ae:c2;
+  uid "\001\360/t\314\256\302";
+  client-hostname "s12of-dyakonova";
+}
+lease 10.217.47.50 {
+  starts 4 2021/09/09 00:21:38;
+  ends 4 2021/09/09 01:21:38;
+  cltt 4 2021/09/09 00:21:38;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 70:b3:d5:51:9e:06;
+  uid "\001p\263\325Q\236\006";
+}
+lease 10.217.47.102 {
+  starts 4 2021/09/09 00:40:09;
+  ends 4 2021/09/09 01:40:09;
+  cltt 4 2021/09/09 00:40:09;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet bc:ae:c5:76:b7:2b;
+  uid "\001\274\256\305v\267+";
+  client-hostname "s12-chechnev";
+}
+lease 10.217.47.32 {
+  starts 4 2021/09/09 00:40:14;
+  ends 4 2021/09/09 01:40:14;
+  cltt 4 2021/09/09 00:40:14;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet f0:2f:74:ce:39:78;
+  uid "\001\360/t\3169x";
+  client-hostname "s12of-umanec";
+}
+lease 10.217.47.109 {
+  starts 4 2021/09/09 00:43:02;
+  ends 4 2021/09/09 01:43:02;
+  cltt 4 2021/09/09 00:43:02;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet a8:5e:45:31:8b:57;
+  uid "\001\250^E1\213W";
+  client-hostname "medosmotr5";
+}
+lease 10.217.47.101 {
+  starts 4 2021/09/09 00:43:41;
+  ends 4 2021/09/09 01:43:41;
+  cltt 4 2021/09/09 00:43:41;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet b4:2e:99:de:e7:32;
+  uid "\001\264.\231\336\3472";
+  client-hostname "s12of-konyshev";
+}
+lease 10.217.47.104 {
+  starts 4 2021/09/09 00:53:27;
+  ends 4 2021/09/09 01:53:27;
+  cltt 4 2021/09/09 00:53:27;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 70:85:c2:91:08:b6;
+  uid "\001p\205\302\221\010\266";
+  client-hostname "s12of-kulebak";
+}
+lease 10.217.47.105 {
+  starts 4 2021/09/09 00:53:47;
+  ends 4 2021/09/09 01:53:47;
+  cltt 4 2021/09/09 00:53:47;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 54:04:a6:69:40:4f;
+  uid "\001T\004\246i@O";
+  client-hostname "s12-krasilnik";
+}
+lease 10.217.47.80 {
+  starts 4 2021/09/09 00:57:14;
+  ends 4 2021/09/09 01:57:14;
+  cltt 4 2021/09/09 00:57:14;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 1c:1b:0d:a6:c3:55;
+  uid "\001\034\033\015\246\303U";
+  client-hostname "s12-uporova";
+}
+lease 10.217.47.111 {
+  starts 4 2021/09/09 00:57:28;
+  ends 4 2021/09/09 01:57:28;
+  cltt 4 2021/09/09 00:57:28;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet b4:2e:99:de:e8:85;
+  uid "\001\264.\231\336\350\205";
+  client-hostname "s12-tsapova";
+}
+lease 10.217.47.37 {
+  starts 4 2021/09/09 00:57:28;
+  ends 4 2021/09/09 01:57:28;
+  cltt 4 2021/09/09 00:57:28;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 04:d4:c4:21:f2:4d;
+  uid "\001\004\324\304!\362M";
+  client-hostname "s12-zelenin";
+}
+lease 10.217.47.30 {
+  starts 4 2021/09/09 00:57:51;
+  ends 4 2021/09/09 01:57:51;
+  cltt 4 2021/09/09 00:57:51;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet a8:a1:59:35:73:5f;
+  uid "\001\250\241Y5s_";
+  client-hostname "s12of-pozdnyakova";
+}
+lease 10.217.47.113 {
+  starts 4 2021/09/09 00:58:48;
+  ends 4 2021/09/09 01:58:48;
+  cltt 4 2021/09/09 00:58:48;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 04:d9:f5:cc:a8:53;
+  uid "\001\004\331\365\314\250S";
+  client-hostname "s12of-ilyinen";
+}
+lease 10.217.47.112 {
+  starts 4 2021/09/09 01:00:23;
+  ends 4 2021/09/09 02:00:23;
+  cltt 4 2021/09/09 01:00:23;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet d4:5d:64:a5:82:c5;
+  uid "\001\324]d\245\202\305";
+  client-hostname "s12of-kochetova";
+}
+lease 10.217.47.63 {
+  starts 4 2021/09/09 01:02:19;
+  ends 4 2021/09/09 02:02:19;
+  cltt 4 2021/09/09 01:02:19;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet b4:2e:99:78:01:2a;
+  uid "\001\264.\231x\001*";
+  client-hostname "s12-iushin";
+}
+lease 10.217.47.126 {
+  starts 4 2021/09/09 01:03:29;
+  ends 4 2021/09/09 02:03:29;
+  cltt 4 2021/09/09 01:03:29;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet bc:ae:c5:df:47:66;
+  uid "\001\274\256\305\337Gf";
+  client-hostname "s12-kpp1";
+}
+lease 10.217.47.53 {
+  starts 4 2021/09/09 01:05:47;
+  ends 4 2021/09/09 02:05:47;
+  cltt 4 2021/09/09 01:05:47;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 50:26:90:a5:fc:64;
+  uid "\001P&\220\245\374d";
+  client-hostname "zheltouhova";
+}
+lease 10.217.47.47 {
+  starts 4 2021/09/09 01:05:58;
+  ends 4 2021/09/09 02:05:58;
+  cltt 4 2021/09/09 01:05:58;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 18:c0:4d:a6:5a:39;
+  uid "\001\030\300M\246Z9";
+  client-hostname "s12of-vesy15";
+}
+server-duid "\000\001\000\001(Q\240\026p\205\302\226N7";
+
+lease 10.217.47.53 {
+  starts 4 2021/09/09 01:06:20;
+  ends 4 2021/09/09 02:06:20;
+  cltt 4 2021/09/09 01:06:20;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 50:26:90:a5:fc:64;
+  uid "\001P&\220\245\374d";
+  client-hostname "zheltouhova";
+}
+lease 10.217.47.101 {
+  starts 4 2021/09/09 01:13:41;
+  ends 4 2021/09/09 02:13:41;
+  cltt 4 2021/09/09 01:13:41;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet b4:2e:99:de:e7:32;
+  uid "\001\264.\231\336\3472";
+  client-hostname "s12of-konyshev";
+}
+lease 10.217.47.105 {
+  starts 4 2021/09/09 01:16:07;
+  ends 4 2021/09/09 02:16:07;
+  cltt 4 2021/09/09 01:16:07;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 54:04:a6:69:40:4f;
+  uid "\001T\004\246i@O";
+  client-hostname "s12-krasilnik";
+}
+lease 10.217.47.34 {
+  starts 4 2021/09/09 00:19:41;
+  ends 4 2021/09/09 01:19:41;
+  tstp 4 2021/09/09 01:19:41;
+  cltt 4 2021/09/09 00:19:41;
+  binding state free;
+  hardware ethernet f0:2f:74:cc:ae:c2;
+  uid "\001\360/t\314\256\302";
+}
+lease 10.217.47.50 {
+  starts 4 2021/09/09 00:21:38;
+  ends 4 2021/09/09 01:21:38;
+  tstp 4 2021/09/09 01:21:38;
+  cltt 4 2021/09/09 00:21:38;
+  binding state free;
+  hardware ethernet 70:b3:d5:51:9e:06;
+  uid "\001p\263\325Q\236\006";
+}
+lease 10.217.47.104 {
+  starts 4 2021/09/09 01:23:27;
+  ends 4 2021/09/09 02:23:27;
+  cltt 4 2021/09/09 01:23:27;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 70:85:c2:91:08:b6;
+  uid "\001p\205\302\221\010\266";
+  client-hostname "s12of-kulebak";
+}
+lease 10.217.47.80 {
+  starts 4 2021/09/09 01:27:14;
+  ends 4 2021/09/09 02:27:14;
+  cltt 4 2021/09/09 01:27:14;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 1c:1b:0d:a6:c3:55;
+  uid "\001\034\033\015\246\303U";
+  client-hostname "s12-uporova";
+}
+lease 10.217.47.37 {
+  starts 4 2021/09/09 01:27:28;
+  ends 4 2021/09/09 02:27:28;
+  cltt 4 2021/09/09 01:27:28;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 04:d4:c4:21:f2:4d;
+  uid "\001\004\324\304!\362M";
+  client-hostname "s12-zelenin";
+}
+lease 10.217.47.111 {
+  starts 4 2021/09/09 01:27:28;
+  ends 4 2021/09/09 02:27:28;
+  cltt 4 2021/09/09 01:27:28;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet b4:2e:99:de:e8:85;
+  uid "\001\264.\231\336\350\205";
+  client-hostname "s12-tsapova";
+}
+lease 10.217.47.30 {
+  starts 4 2021/09/09 01:27:51;
+  ends 4 2021/09/09 02:27:51;
+  cltt 4 2021/09/09 01:27:51;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet a8:a1:59:35:73:5f;
+  uid "\001\250\241Y5s_";
+  client-hostname "s12of-pozdnyakova";
+}
+lease 10.217.47.113 {
+  starts 4 2021/09/09 01:28:48;
+  ends 4 2021/09/09 02:28:48;
+  cltt 4 2021/09/09 01:28:48;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 04:d9:f5:cc:a8:53;
+  uid "\001\004\331\365\314\250S";
+  client-hostname "s12of-ilyinen";
+}
+lease 10.217.47.112 {
+  starts 4 2021/09/09 01:30:23;
+  ends 4 2021/09/09 02:30:23;
+  cltt 4 2021/09/09 01:30:23;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet d4:5d:64:a5:82:c5;
+  uid "\001\324]d\245\202\305";
+  client-hostname "s12of-kochetova";
+}
+lease 10.217.47.63 {
+  starts 4 2021/09/09 01:32:19;
+  ends 4 2021/09/09 02:32:19;
+  cltt 4 2021/09/09 01:32:19;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet b4:2e:99:78:01:2a;
+  uid "\001\264.\231x\001*";
+  client-hostname "s12-iushin";
+}
+lease 10.217.47.126 {
+  starts 4 2021/09/09 01:33:28;
+  ends 4 2021/09/09 02:33:28;
+  cltt 4 2021/09/09 01:33:28;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet bc:ae:c5:df:47:66;
+  uid "\001\274\256\305\337Gf";
+  client-hostname "s12-kpp1";
+}
+lease 10.217.47.47 {
+  starts 4 2021/09/09 01:35:58;
+  ends 4 2021/09/09 02:35:58;
+  cltt 4 2021/09/09 01:35:58;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 18:c0:4d:a6:5a:39;
+  uid "\001\030\300M\246Z9";
+  client-hostname "s12of-vesy15";
+}
+lease 10.217.47.102 {
+  starts 4 2021/09/09 00:40:09;
+  ends 4 2021/09/09 01:40:09;
+  tstp 4 2021/09/09 01:40:09;
+  cltt 4 2021/09/09 00:40:09;
+  binding state free;
+  hardware ethernet bc:ae:c5:76:b7:2b;
+  uid "\001\274\256\305v\267+";
+}
+lease 10.217.47.32 {
+  starts 4 2021/09/09 00:40:14;
+  ends 4 2021/09/09 01:40:14;
+  tstp 4 2021/09/09 01:40:14;
+  cltt 4 2021/09/09 00:40:14;
+  binding state free;
+  hardware ethernet f0:2f:74:ce:39:78;
+  uid "\001\360/t\3169x";
+}
+lease 10.217.47.109 {
+  starts 4 2021/09/09 00:43:02;
+  ends 4 2021/09/09 01:43:02;
+  tstp 4 2021/09/09 01:43:02;
+  cltt 4 2021/09/09 00:43:02;
+  binding state free;
+  hardware ethernet a8:5e:45:31:8b:57;
+  uid "\001\250^E1\213W";
+}
+lease 10.217.47.101 {
+  starts 4 2021/09/09 01:43:41;
+  ends 4 2021/09/09 02:43:41;
+  cltt 4 2021/09/09 01:43:41;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet b4:2e:99:de:e7:32;
+  uid "\001\264.\231\336\3472";
+  client-hostname "s12of-konyshev";
+}
+lease 10.217.47.105 {
+  starts 4 2021/09/09 01:46:07;
+  ends 4 2021/09/09 02:46:07;
+  cltt 4 2021/09/09 01:46:07;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 54:04:a6:69:40:4f;
+  uid "\001T\004\246i@O";
+  client-hostname "s12-krasilnik";
+}
+lease 10.217.47.104 {
+  starts 4 2021/09/09 01:53:27;
+  ends 4 2021/09/09 02:53:27;
+  cltt 4 2021/09/09 01:53:27;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 70:85:c2:91:08:b6;
+  uid "\001p\205\302\221\010\266";
+  client-hostname "s12of-kulebak";
+}
+lease 10.217.47.80 {
+  starts 4 2021/09/09 01:57:15;
+  ends 4 2021/09/09 02:57:15;
+  cltt 4 2021/09/09 01:57:15;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 1c:1b:0d:a6:c3:55;
+  uid "\001\034\033\015\246\303U";
+  client-hostname "s12-uporova";
+}
+lease 10.217.47.37 {
+  starts 4 2021/09/09 01:57:28;
+  ends 4 2021/09/09 02:57:28;
+  cltt 4 2021/09/09 01:57:28;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 04:d4:c4:21:f2:4d;
+  uid "\001\004\324\304!\362M";
+  client-hostname "s12-zelenin";
+}
+lease 10.217.47.111 {
+  starts 4 2021/09/09 01:57:28;
+  ends 4 2021/09/09 02:57:28;
+  cltt 4 2021/09/09 01:57:28;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet b4:2e:99:de:e8:85;
+  uid "\001\264.\231\336\350\205";
+  client-hostname "s12-tsapova";
+}
+lease 10.217.47.30 {
+  starts 4 2021/09/09 01:57:51;
+  ends 4 2021/09/09 02:57:51;
+  cltt 4 2021/09/09 01:57:51;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet a8:a1:59:35:73:5f;
+  uid "\001\250\241Y5s_";
+  client-hostname "s12of-pozdnyakova";
+}
+lease 10.217.47.113 {
+  starts 4 2021/09/09 01:58:48;
+  ends 4 2021/09/09 02:58:48;
+  cltt 4 2021/09/09 01:58:48;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 04:d9:f5:cc:a8:53;
+  uid "\001\004\331\365\314\250S";
+  client-hostname "s12of-ilyinen";
+}
+lease 10.217.47.112 {
+  starts 4 2021/09/09 02:00:23;
+  ends 4 2021/09/09 03:00:23;
+  cltt 4 2021/09/09 02:00:23;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet d4:5d:64:a5:82:c5;
+  uid "\001\324]d\245\202\305";
+  client-hostname "s12of-kochetova";
+}
+lease 10.217.47.63 {
+  starts 4 2021/09/09 02:02:19;
+  ends 4 2021/09/09 03:02:19;
+  cltt 4 2021/09/09 02:02:19;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet b4:2e:99:78:01:2a;
+  uid "\001\264.\231x\001*";
+  client-hostname "s12-iushin";
+}
+lease 10.217.47.126 {
+  starts 4 2021/09/09 02:03:28;
+  ends 4 2021/09/09 03:03:28;
+  cltt 4 2021/09/09 02:03:28;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet bc:ae:c5:df:47:66;
+  uid "\001\274\256\305\337Gf";
+  client-hostname "s12-kpp1";
+}

@@ -1,0 +1,21 @@
+from typing import Optional
+
+from fastapi import FastAPI
+
+app = FastAPI()
+
+
+@app.get("/")
+def read_root():
+    text=''
+    with open('backup.log', 'r') as g:
+        for i in g:
+            text+=i+'<br>'
+    return {text}
+
+
+@app.get("/items/{item_id}")
+def read_item(item_id: int, q: Optional[str] = None):
+    return {"item_id": item_id, "q": q}
+
+
