@@ -2,8 +2,8 @@
 import redis
 
 USER = {
-    'login': '',
-    'domain': '',
-    'password': ''
+    'login': 'e.titov',
+    'domain': 'SHAHTA12',
+    'password': '47tit_evg'
 }
 CONN_REDIS = redis.Redis(host='localhost', port=6379)

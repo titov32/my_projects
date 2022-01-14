@@ -34,6 +34,8 @@ def job(text_organisation):
             name_org = text_organisation[:ORGANISATIONS[org][0]]
             special = text_organisation[ORGANISATIONS[org][0]:]
             return name_org, special
+
+
 class ParserSS:
     def __init__(self):
         self.session = requests.Session()
@@ -44,6 +46,7 @@ class ParserSS:
         self.cookies_dict = []
         self.data = USER
         self.connection = CONN_REDIS
+
     def auth(self):
         try:
             self.session = requests.Session()
@@ -52,6 +55,7 @@ class ParserSS:
                 {"domain": key.domain, "name": key.name, "path": key.path, "value": key.value}
                 for key in self.session.cookies
             ]
+            print(self.session)
         except Exception as e:
             print(f'ошибка аунтификации {e}')
         print('Запись куки в файл')
@@ -75,11 +79,12 @@ class ParserSS:
             print(f'Проблемы! Ошибка регистрации {e}')
 
     def parse_employ(self, id_user):
-        context_permit = {'id':id_user}
-        profile_info = 'http://portal.stryservice.net/guides/users/show?id='+id_user
+        context_permit = {'id': id_user}
+        profile_info = 'http://portal.stryservice.net/guides/users/show?id=' + id_user
         profile_response = self.session.get(profile_info, headers=self.header).text
 
         soup_employ = BeautifulSoup(profile_response, 'html.parser')
+        print(soup_employ)
         block1 = soup_employ.find_all("div",
                                       class_="d-flex flex-column align-items-center justify-content-center p-4 "
                                              "show-child-on-hover hide-child-on-hover")[0]
@@ -89,8 +94,8 @@ class ParserSS:
         special = employ.find_all(class_='text-muted mb-0')[0].text
         context_permit['special'] = special
         department = employ.find_all(class_='text-muted mb-0 hide-on-hover-parent')[0].text
-        #context_permit['department'] = department
-        #context_permit['organisation'] = department[:18]
+        # context_permit['department'] = department
+        # context_permit['organisation'] = department[:18]
         context_permit['organisation'], context_permit['department'] = job(department)
         context_permit['job'] = department
 
@@ -116,7 +121,7 @@ class ParserSS:
                 file.write(image_bytes)
         except AttributeError:
             print('Foto no exist')
-            block_image=None
+            block_image = None
             return None
 
         context_permit['foto'] = f'{id_user}.jpg'
@@ -137,7 +142,7 @@ class ParserSS:
         return list_id_employ
 
     def check_redis(self, id_user):
-        data={}
+        data = {}
         if self.connection.hgetall(id_user):
             raw_data = self.connection.hgetall(id_user)
             data['id_user'] = id_user
@@ -156,7 +161,6 @@ class ParserSS:
 
 
 if __name__ == "__main__":
-
     a = ParserSS()
     a.register()
 
