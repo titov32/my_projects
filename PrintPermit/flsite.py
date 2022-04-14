@@ -1,6 +1,10 @@
+import os
+
 from flask import Flask, render_template, url_for, request
 from parsing import ParserSS
 from time import sleep
+import os
+
 
 app = Flask(__name__)
 
@@ -31,8 +35,12 @@ def parse():
         print('tabel', e['tabel'])
         return render_template('permit.html', employ=e)
     else:
-        r = a.parse_employ('9')
-        return render_template('permit.html', employ=r)
+        try:
+            r = a.parse_employ('9')
+            return render_template('permit.html', employ=r)
+        except IndexError:
+            os.remove('cookies')
+
 
 @app.route('/parse_unbound', methods=['GET', 'POST'])
 def parse_unbound():

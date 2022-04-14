@@ -42,7 +42,7 @@ class ParserSS:
         self.url = 'http://portal.stryservice.net'
         self.auth_url = 'http://portal.stryservice.net/auth'
         self.header = {
-            'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36'}
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36'}
         self.cookies_dict = []
         self.data = USER
         self.connection = CONN_REDIS
@@ -50,7 +50,10 @@ class ParserSS:
     def auth(self):
         try:
             self.session = requests.Session()
-            self.response = self.session.post(self.auth_url, data=self.data, headers=self.header)
+            r = self.session.get(self.url, headers=self.header)
+            self.session.headers.update({'Referer': self.url})
+            self.session.headers.update({'User-Agent': self.header['User-Agent']})
+            self.response = self.session.post(self.auth_url, data=self.data)
             self.cookies_dict = [
                 {"domain": key.domain, "name": key.name, "path": key.path, "value": key.value}
                 for key in self.session.cookies
@@ -164,7 +167,7 @@ if __name__ == "__main__":
     a = ParserSS()
     a.register()
 
-    employ = a.check_redis('86292')
+    employ = a.check_redis('106778')
     print('Фамилия', employ['family'])
     print('special', employ['special'])
     print('department', employ['department'])
